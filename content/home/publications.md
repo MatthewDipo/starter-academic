@@ -25,10 +25,10 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "Artificial Intelligence, COVID-19, Healthcare System, Internet of Things, Machine Learning, Medical Dataset"
     category = ""
-    publication_type = ""
-    author = ""
+    publication_type = "Book Capter"
+    author = "Sunday Adeola AJAGBE1*[0000-0002-7010-5540], Joseph Bamidele AWOTUNDE2[0000-0002-1020-4432], Matthew Abiola OLADIPUPO3[0000-0002-5984-6217], Olawale, E. OYE4"
     exclude_featured = false
   
 [design]
