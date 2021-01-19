@@ -18,27 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Electrical Engineer"
+  company = "Pomat Abbey Ventures Limited"
+  company_url = "http://pomatabbey.com/"
+  location = "Nigeria"
+  date_start = "2016-06-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Created, aligned, and optimized electrical instrumentation and testing equipment.
+  * Inspected completed installations to observe operations and verify conformance to design and equipment specifications.
+  * Proposed electrical product and system modifications to improve quality and efficiency.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Data Scientist"
+  company = "Upwork"
+  company_url = "https://www.upwork.com/"
+  location = "US"
+  date_start = "2020-07-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+
+  * Applied statistical and algebraic techniques to interpret key points from gathered data.
+  * Coordinated statistical data analysis, design, and information flow.
+  """
 
 +++
