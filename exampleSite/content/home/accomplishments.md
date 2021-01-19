@@ -25,7 +25,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   You can begin a multiline `description` using YAML's `|-`.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.coursera.org/
   date_end: ""
   date_start: "2018-10-01"
   description: ""
