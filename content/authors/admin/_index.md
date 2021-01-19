@@ -6,12 +6,12 @@ title: Oladipupo Matthew Abiola
 superuser: true
 
 # Role/position
-role: Artificial Intelligence Engineer
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Ladoke Akintola University of Technology
-  url: "http://lautech.edu.ng/"
+- name: University of Salford
+  url: "https://www.salford.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Artificial Intelligence, Natural Language Processing, Deep Learning, Generative Recural Network and Data Science.
@@ -25,17 +25,17 @@ interests:
 
 education:
   courses:
-  - course: MSc in Information Technology
-    institution: National Open University
+  - course: MSc in Data Science
+    institution: University of Salford, UK
     year: 2022
   - course: Professional Diploma in Data Analytics
-    institution: National Institute of Information Technology
-    year: 2020
+    institution: National Institute of Information Technology, Nigeria
+    year: 2021
   - course: PgD in Electronic Electrical Engineering
-    institution: Ladoke Akintola University of Technology
+    institution: Ladoke Akintola University of Technology, Nigeria
     year: 2019
   - course: BTech in Electronic Electrical Engineering
-    institution: Ladoke Akintola University of Technology
+    institution: Ladoke Akintola University of Technology, Nigeria
     year: 2014
 
 # Social/Academic Networking
@@ -49,9 +49,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MatthewDipo
+- icon: linkedin
+  icon_pack: linkedin
+  link: https://www.linkedin.com/in/matthewoladipupo/
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Matthew_Oladipupo
+- icon: academia
+  icon_pack: academia
+  link: https://salford.academia.edu/MatthewOladipupo
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-5984-6217
@@ -65,10 +71,10 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "moladipupo@pgschool.lautech.edu.ng"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -77,4 +83,4 @@ user_groups:
 - Visitors
 ---
 
-Scholarly artificial intelligence enthusiast with years of experience researching Machine Learning. Well-informed on the latest Machine Learning advancements. Ready to combine tireless hunger for new skills with a desire to exploit cutting-edge data science technology.
+Scholarly Artificial Intelligence enthusiast with years of experience researching Machine Learning. Well-informed on the latest Machine Learning and Data Science advancements. Ready to combine tireless hunger for new skills with a desire to exploit cutting-edge Data Science technology.
